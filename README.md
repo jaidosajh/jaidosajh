@@ -1,90 +1,49 @@
-Hi there 👋
+### Cybersecurity Analyst · Systems Administrator
 
-Cybersecurity Analyst | Network & Systems Administrator
+**Defensive security | Windows & Linux infrastructure | Incident response | Security automation**
 
-I'm a cybersecurity analyst with extensive experience in network infrastructure, server administration, and security operations. My work focuses on building secure, reliable, and well-monitored environments while continuously improving defensive capabilities.
-:lock: Areas of Interest
+## About me
 
-Network Security
-Blue Team Operations
-Threat Detection & Incident Response
-SIEM Engineering
-Windows & Linux Administration
-Active Directory Security
-Vulnerability Assessment
-Security Automation
-Firewall & VPN Management
-Cloud Security Fundamentals
+I'm a cybersecurity analyst and systems administrator with experience supporting and securing Windows and Linux environments. My work spans **incident response and log analysis**, **Fortinet FortiGate network security**, **vulnerability management**, **Active Directory / Group Policy**, **endpoint security**, and **virtualized infrastructure**.
 
-Technologies & Tools
+I use **Python, PowerShell, and Bash** to make investigations and everyday systems administration more consistent and repeatable. My portfolio focuses on reproducible, documented **defensive labs and utilities**. All examples use synthetic or lab data—not customer systems.
 
-Operating Systems
+## Areas I work in
 
-Windows Server
-Linux (Ubuntu, Debian, CentOS, Rocky Linux)
-Networking
+| Defensive security | Systems & network administration | Automation & platforms |
+| --- | --- | --- |
+| Incident response, log analysis, vulnerability management | Windows Server, Linux, Active Directory, GPO | Python, PowerShell, Bash |
+| FortiGate policies, VPN, segmentation | DNS, DHCP, NAT, VLANs | Hyper-V, Proxmox, Rewst |
+| Endpoint protection and remediation | Patching, backups, least privilege | Nessus, NinjaOne, Huntress, Bitdefender |
 
-TCP/IP
-VLANs
-Routing & Switching
-DNS
-DHCP
-VPN
-Firewalls
-Security
+## Featured work
 
-SIEM
-IDS/IPS
-Endpoint Security
-Log Analysis
-Vulnerability Management
-Security Hardening
-MFA
-IAM
-Scripting
+### [SysAdmin Security Toolkit](https://github.com/jaidosajh/sysadmin-security-toolkit)
+**Defensive automation · Python / PowerShell / Bash**
 
-PowerShell
-Bash
-Python
-Virtualization & Infrastructure
+A cross-platform collection of **read-only security checks**: synthetic authentication-log triage, file integrity baselines, Windows local administrator inventory, and Linux local security posture checks. Includes sample inputs, unit tests, and usage documentation.
 
-VMware
-Hyper-V
-Docker
-Proxmox
+> **Publication note:** The link above becomes active after this repository is created and pushed. Other labs will be linked here when completed.
 
-What You'll Find Here
+## Lab roadmap
 
-Security automation scripts
-Blue Team tools
-Network administration utilities
-Server hardening guides
-Detection rules
-PowerShell and Bash scripts
-Python security projects
-Lab documentation
-Home lab configurations
-:seedling: Currently Learning
+- **FortiGate Network Security Lab** — isolated VLANs, policy verification, VPN, and segmentation documentation *(planned)*.
+- **Active Directory Security Lab** — GPO baselines, privilege review, and event auditing *(planned)*.
+- **Blue Team Incident Response Lab** — synthetic authentication incidents, timelines, and detections *(planned)*.
+- **Vulnerability Management Automation** — Nessus export triage and remediation reporting using sanitized lab data *(planned)*.
+- **Proxmox Infrastructure Lab** — network segmentation, backups, and recovery validation *(planned)*.
 
-Threat Hunting
-Detection Engineering
-Cloud Security
-Infrastructure as Code
-Kubernetes Security
+## Certifications
 
+- Fortinet FortiGate 7.4 Administrator (2025)
+- NinjaOne Certified Technician | MSP (2024)
+- Microsoft Certified: Azure AI Engineer Associate (2026)
 
-Open to Collaborate On
+## Connect
 
-Cybersecurity projects
-Security automation
-Open-source Blue Team tools
-Network monitoring
-Infrastructure hardening
-SOC tooling
+- **GitHub:** [@jaidosajh](https://github.com/jaidosajh)
+- **LinkedIn:
 
 
 
 
-
-
-"Security is a process, not a product."
