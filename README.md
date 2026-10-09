@@ -1,49 +1,52 @@
-### Cybersecurity Analyst · Systems Administrator
+# Jai Dosajh 👋
 
-**Defensive security | Windows & Linux infrastructure | Incident response | Security automation**
+### Cybersecurity Analyst | Systems Administrator | Security Automation
 
-## About me
+📍 Durham, North Carolina
 
-I'm a cybersecurity analyst and systems administrator with experience supporting and securing Windows and Linux environments. My work spans **incident response and log analysis**, **Fortinet FortiGate network security**, **vulnerability management**, **Active Directory / Group Policy**, **endpoint security**, and **virtualized infrastructure**.
+I secure, administer, and troubleshoot Windows and Linux infrastructure. My professional experience includes **NIST-aligned incident response**, **Fortinet FortiGate firewalls**, **Active Directory**, **vulnerability management with Nessus**, **endpoint security**, and **Hyper-V / Proxmox**. I build repeatable administrative and defensive workflows with **Python, PowerShell, Bash, and Rewst**.
 
-I use **Python, PowerShell, and Bash** to make investigations and everyday systems administration more consistent and repeatable. My portfolio focuses on reproducible, documented **defensive labs and utilities**. All examples use synthetic or lab data—not customer systems.
+## 🛠️ Technical expertise
 
-## Areas I work in
-
-| Defensive security | Systems & network administration | Automation & platforms |
+| Security operations | Infrastructure & networking | Automation |
 | --- | --- | --- |
-| Incident response, log analysis, vulnerability management | Windows Server, Linux, Active Directory, GPO | Python, PowerShell, Bash |
-| FortiGate policies, VPN, segmentation | DNS, DHCP, NAT, VLANs | Hyper-V, Proxmox, Rewst |
-| Endpoint protection and remediation | Patching, backups, least privilege | Nessus, NinjaOne, Huntress, Bitdefender |
+| Incident response, log analysis, threat detection | Windows Server, Linux, Active Directory, GPO | Python, PowerShell, Bash |
+| Vulnerability management, Nessus, endpoint security | FortiGate, VLANs, VPN, NAT, DNS/DHCP | Rewst, NinjaOne |
+| Hardening, patch management, access control | Hyper-V, Proxmox, backup and restore | Audit and triage scripts |
 
-## Featured work
+## 🚀 Featured project
 
 ### [SysAdmin Security Toolkit](https://github.com/jaidosajh/sysadmin-security-toolkit)
-**Defensive automation · Python / PowerShell / Bash**
 
-A cross-platform collection of **read-only security checks**: synthetic authentication-log triage, file integrity baselines, Windows local administrator inventory, and Linux local security posture checks. Includes sample inputs, unit tests, and usage documentation.
+**Defensive automation for Windows and Linux administrators.**
 
-> **Publication note:** The link above becomes active after this repository is created and pushed. Other labs will be linked here when completed.
+- Python authentication log triage using synthetic sample data
+- SHA-256 file-integrity baseline and verification tool
+- PowerShell local account and administrator inventory
+- Bash local Linux security posture report
+- Automated Python unit tests and GitHub Actions workflow
 
-## Lab roadmap
+**[Explore the repository →](https://github.com/jaidosajh/sysadmin-security-toolkit)**
 
-- **FortiGate Network Security Lab** — isolated VLANs, policy verification, VPN, and segmentation documentation *(planned)*.
-- **Active Directory Security Lab** — GPO baselines, privilege review, and event auditing *(planned)*.
-- **Blue Team Incident Response Lab** — synthetic authentication incidents, timelines, and detections *(planned)*.
-- **Vulnerability Management Automation** — Nessus export triage and remediation reporting using sanitized lab data *(planned)*.
-- **Proxmox Infrastructure Lab** — network segmentation, backups, and recovery validation *(planned)*.
+## 🧪 Upcoming documented labs
 
-## Certifications
+- **FortiGate Network Security Lab** — firewall policy design, segmentation, and VPN validation *(planned)*
+- **Active Directory Security Lab** — Group Policy, least privilege, and audit controls *(planned)*
+- **Incident Response Lab** — simulated investigations, evidence timelines, and defensive detections *(planned)*
+- **Vulnerability Management Automation** — lab-based Nessus reporting and remediation tracking *(planned)*
+- **Proxmox Infrastructure Lab** — virtual networking, backup, and restore testing *(planned)*
 
-- Fortinet FortiGate 7.4 Administrator (2025)
-- NinjaOne Certified Technician | MSP (2024)
-- Microsoft Certified: Azure AI Engineer Associate (2026)
+## 🎓 Certifications
 
-## Connect
+- **Fortinet FortiGate 7.4 Administrator** — January 2025
+- **NinjaOne Certified Technician | MSP** — July 2024
+- **Microsoft Certified: Azure AI Engineer Associate** — June 2026
 
-- **GitHub:** [@jaidosajh](https://github.com/jaidosajh)
-- **LinkedIn:
+## 📬 Connect
 
+- GitHub: [@jaidosajh](https://github.com/jaidosajh)
+- LinkedIn: Add verified profile URL here
 
+---
 
-
+*Documenting practical, reproducible security and systems engineering work. Portfolio labs use synthetic or authorized test data.*
