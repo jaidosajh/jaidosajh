@@ -1,52 +1,36 @@
-# Jai Dosajh 👋
+# Jai Dosajh
 
-### Cybersecurity Analyst | Systems Administrator | Security Automation
+### Cybersecurity Analyst | Network & Systems Administrator
 
-📍 Durham, North Carolina
+**Blue Team · Infrastructure Security · Incident Response · Security Automation**
 
-I secure, administer, and troubleshoot Windows and Linux infrastructure. My professional experience includes **NIST-aligned incident response**, **Fortinet FortiGate firewalls**, **Active Directory**, **vulnerability management with Nessus**, **endpoint security**, and **Hyper-V / Proxmox**. I build repeatable administrative and defensive workflows with **Python, PowerShell, Bash, and Rewst**.
+I help secure and support Windows and Linux environments through practical administration, defensive tooling, and repeatable security workflows. My work spans network and endpoint security, vulnerability management, log triage, and infrastructure automation.
 
-## 🛠️ Technical expertise
+## Focus areas
 
-| Security operations | Infrastructure & networking | Automation |
-| --- | --- | --- |
-| Incident response, log analysis, threat detection | Windows Server, Linux, Active Directory, GPO | Python, PowerShell, Bash |
-| Vulnerability management, Nessus, endpoint security | FortiGate, VLANs, VPN, NAT, DNS/DHCP | Rewst, NinjaOne |
-| Hardening, patch management, access control | Hyper-V, Proxmox, backup and restore | Audit and triage scripts |
+- **Security operations:** incident response, log analysis, vulnerability management, endpoint security, hardening, and access control
+- **Systems administration:** Windows Server, Linux, Active Directory, Group Policy, Hyper-V, and Proxmox
+- **Networking:** FortiGate, VLAN segmentation, firewall policies, VPN, NAT, DNS, and DHCP
+- **Automation:** Python, PowerShell, Bash, and Rewst
 
-## 🚀 Featured project
+## Featured work
+
+### [FortiGate Security Lab](https://github.com/jaidosajh/fortigate-security-lab)
+A documented network security lab covering VLAN segmentation, firewall policies, and IPsec VPN templates, with Python audit and log-triage utilities, guides, automated tests, and GitHub Actions.
 
 ### [SysAdmin Security Toolkit](https://github.com/jaidosajh/sysadmin-security-toolkit)
+Defensive tools for Windows and Linux administrators, including authentication log triage with synthetic data, file-integrity checks, local administrator inventory, and a Linux security posture report.
 
-**Defensive automation for Windows and Linux administrators.**
+## Certifications
 
-- Python authentication log triage using synthetic sample data
-- SHA-256 file-integrity baseline and verification tool
-- PowerShell local account and administrator inventory
-- Bash local Linux security posture report
-- Automated Python unit tests and GitHub Actions workflow
+- Fortinet FortiGate 7.4 Administrator — January 2025
+- NinjaOne Certified Technician | MSP — July 2024
+- Microsoft Certified: Azure AI Engineer Associate — June 2026
 
-**[Explore the repository →](https://github.com/jaidosajh/sysadmin-security-toolkit)**
-
-## 🧪 Upcoming documented labs
-
-- **FortiGate Network Security Lab** — firewall policy design, segmentation, and VPN validation *(planned)*
-- **Active Directory Security Lab** — Group Policy, least privilege, and audit controls *(planned)*
-- **Incident Response Lab** — simulated investigations, evidence timelines, and defensive detections *(planned)*
-- **Vulnerability Management Automation** — lab-based Nessus reporting and remediation tracking *(planned)*
-- **Proxmox Infrastructure Lab** — virtual networking, backup, and restore testing *(planned)*
-
-## 🎓 Certifications
-
-- **Fortinet FortiGate 7.4 Administrator** — January 2025
-- **NinjaOne Certified Technician | MSP** — July 2024
-- **Microsoft Certified: Azure AI Engineer Associate** — June 2026
-
-## 📬 Connect
+## Connect
 
 - GitHub: [@jaidosajh](https://github.com/jaidosajh)
-- LinkedIn: Add verified profile URL here
 
 ---
 
-*Documenting practical, reproducible security and systems engineering work. Portfolio labs use synthetic or authorized test data.*
+I document practical, reproducible security and systems engineering work. Portfolio labs use synthetic or authorized test data.
