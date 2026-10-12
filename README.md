@@ -21,6 +21,11 @@ A documented network security lab covering VLAN segmentation, firewall policies,
 ### [SysAdmin Security Toolkit](https://github.com/jaidosajh/sysadmin-security-toolkit)
 Defensive tools for Windows and Linux administrators, including authentication log triage with synthetic data, file-integrity checks, local administrator inventory, and a Linux security posture report.
 
+## Upcoming lab
+
+### Active Directory Security Lab
+A planned, isolated lab focused on Group Policy hardening, least-privilege administration, Windows audit policy, and PowerShell checks for common configuration gaps. Documentation will include setup steps, validation commands, and defensive detection examples using authorized test data.
+
 ## Certifications
 
 - Fortinet FortiGate 7.4 Administrator — January 2025
